@@ -65,4 +65,11 @@ class LoginController extends Controller
             $this->username() => 'Authentication failed'
         ]);
     }
+
+    public function logout()
+    {
+        $this->guard()->logout();
+
+        return response()->json(['message' => 'Logged out successfully!']);
+    }
 }
