@@ -8,6 +8,8 @@ use App\Jobs\UploadImage;
 
 class UploadController extends Controller
 {
+    protected $designs;
+
     public function upload(Request $request)
     {
         // validate the request
