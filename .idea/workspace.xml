@@ -108,6 +108,10 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kSI3Ky8WTmfbCstDsfqYL25T5X" />
@@ -135,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605687365180</updated>
-      <workItem from="1605687366244" duration="3565000" />
+      <workItem from="1605687366244" duration="4202000" />
     </task>
     <servers />
   </component>
@@ -163,9 +167,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606038803406" />
-    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1606038810758">
+    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1606100514564">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606038810758" />
+    <state x="-1381" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606100514564" />
   </component>
 </project>
